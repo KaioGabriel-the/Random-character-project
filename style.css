@@ -1,0 +1,36 @@
+body{
+    font-size: 1.5rem;
+    font-family: Stencil Std, fantasy;
+    background-color: #F28E13;
+    min-height: 400px;
+}
+
+main{
+    text-align: center;
+    color: #04BFAD;
+    text-shadow: 3px 0px 1px rgb(0, 0, 0);
+}
+
+.p{
+    text-align: center;
+    color: #04BFAD;
+    text-shadow: 2px 0px 1px rgb(0, 0, 0);
+    font-family: Impact, fantasy;
+    font-size: 1.4rem;
+}
+
+.button{
+    font-family: Stencil Std, fantasy;
+    padding: 1.2rem 1.6rem;
+    border: 0.1rem dashed black;
+    border-radius: 1.5rem;
+    background-color: #F252AA;
+    font-size: 1.0rem;
+    cursor: pointer;
+    
+}
+
+section button:hover{
+    background-color: white;  
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.358); 
+}
