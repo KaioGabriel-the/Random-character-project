@@ -13,7 +13,7 @@ Este é um projeto simples que mostra personagens aleatórios de animes, criado 
 
 > ## CLONE O PROJETO
 > ``` bash
-> git clone https://github.com/KaioGabriel-the/Imers-o-Dev-com-Google-Gemini.git
+> git clone https://github.com/KaioGabriel-the/Random-character-project.git
 
 >## CONTATO
 > * **Desenvolvedor:** Kaio Gabriel
