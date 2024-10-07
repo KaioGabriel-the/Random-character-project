@@ -10,6 +10,13 @@ Este é um projeto simples que mostra personagens aleatórios de animes, criado 
 > * **[API Jikan](https://jikan.moe/):** Utilizada para capturar os dados para a aplicação.
 > * **JSON:** Utilizado para transformar os dados da API para serem utilizados na aplicação.
 > * **Chat GPT:** Utilizado para auxiliar no processo de desenvolvimento.
+> ## 🔦 Como utilizar
+> Clique no botão e, automaticamente, aparecerá um personagem na sua tela.
+
+> ## 💻 [VEJA O PROJETO]()
+> <img src="">
+
+> ## CLONE O PROJETO
 
 > ## CLONE O PROJETO
 > ``` bash
