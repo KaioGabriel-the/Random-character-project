@@ -12,7 +12,7 @@ Este é um projeto simples que mostra personagens aleatórios de animes, criado 
 > * **Chat GPT:** Utilizado para auxiliar no processo de desenvolvimento.
 > ## 🔦 Como utilizar
 > Clique no botão e, automaticamente, aparecerá um personagem na sua tela.
-> ## Inspiração
+> ## 😀 Inspiração
 > O projeto [Pets Factory](https://github.com/Xamacardoso/pets-factory.git) gera um gato ou um cachorro aleatoriamente, desenvolvido pelo desenvolvedor [Xamã Cardoso](https://github.com/Xamacardoso).
 
 > ## 💻 [VEJA O PROJETO](https://random-character-project.vercel.app/)
