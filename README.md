@@ -13,7 +13,7 @@ Este é um projeto simples que mostra personagens aleatórios de animes, criado 
 > ## 🔦 Como utilizar
 > Clique no botão e, automaticamente, aparecerá um personagem na sua tela.
 
-> ## 💻 [VEJA O PROJETO]()
+> ## 💻 [VEJA O PROJETO](https://random-character-project.vercel.app/)
 > <img src="">
 
 > ## CLONE O PROJETO
